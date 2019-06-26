@@ -7,6 +7,6 @@
 ![i](http://finfra.com/f/f.png)
 
 ## table
-|id	| name	|
-|	|	-	|
+|id |name |
+|-  |-    |
 |1	| aaa	|
